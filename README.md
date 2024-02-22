@@ -16,15 +16,28 @@
 
 ## Miscellaneous
 - [Petals](https://github.com/bigscience-workshop/petals?tab=readme-ov-file)
-  
+
    >Run large language models at home, BitTorrent-style
-   
+
+- [Blog de JaviLop:Start-ups](https://javilop.com/startupea-inteligentemente/invirtiendo-tres-anos-en-startups/)
 
 ## Lo-code no-code AI Tools
 
 - [Langflow](https://www.langflow.org)
 
   > **open source web tool built in Python that provides a graphical LLM interface to work with LangChain**, allowing to handle the concepts of Chains, Agents and Prompt Engineering, in a very simple way
+
+- [Tensorflow playground](http://playground.tensorflow.org)
+
+  > A neural network playground. A browser-based application for learning about and experimenting with neural networks
+
+- [BigML](https://bigml.com)
+
+  > BigML provides a selection of robustly-engineered Machine Learning algorithms proven to solve real world problems by applying a single, standardized framework across your company. Avoid dependencies on many disparate libraries that increase complexity, maintenance costs, and technical debt in your projects. BigML facilitates unlimited predictive applications across industries including aerospace, automotive, energy, entertainment, financial services, food, healthcare, IoT, pharmaceutical, transportation, telecommunications, and more
+
+- [Liner.ai](https://liner.ai)
+
+  > Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required
 
 ## AI Frameworks
 
@@ -33,6 +46,17 @@
 >LangChain is an open source orchestration framework for the development of applications using [large language models (LLMs)](https://www.ibm.com/blog/open-source-large-language-models-benefits-risks-and-types/). Available in both Python- and Javascript-based libraries, LangChain’s tools and APIs simplify the process of building LLM-driven applications like [chatbots](https://www.ibm.com/topics/chatbots) and [virtual agents](https://www.ibm.com/topics/virtual-agent)
 
 ## Generative AI Tools
+
+
+
+### LLM
+
+- [GPT4](https://chat.openai.com) by OpenAI
+-  [PaLM](https://ai.google/discover/palm2/) 2 by Google
+- [LLaMA 2](https://llama.meta.com) by Meta
+- [Claude 2](https://www.anthropic.com/product) by Antrophic
+- [Mistral](https://mistral.ai) by MistralAI
+- 
 
 ### Text
 
@@ -60,7 +84,7 @@
 
 - [Midjourney](https://www.midjourney.com)
 
-- Dalle
+- [Dall-e3](https://openai.com/dall-e-3)
 
 - [LeonardoAI](https://leonardo.ai)
 
@@ -71,10 +95,10 @@
 - [KreaAI](https://www.krea.ai)
 
 - [InstantID](https://github.com/InstantID/InstantID)
-   
+  
    >InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
 - [IP Adapter](https://github.com/tencent-ailab/IP-Adapter)
-   
+  
    >The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 
 ### Video
@@ -88,6 +112,7 @@
    >🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 
 - [Bark](https://github.com/suno-ai/bark)
+
    > 🔊 Text-Prompted Generative Audio Model
 
 - [Descript](https://www.descript.com/)
@@ -105,11 +130,15 @@
 - [AIVA](https://www.aiva.ai/)
 
    > Your personal AI music generation assistant
+
+- [ElevenLabs](https://elevenlabs.io)
+
+   > ElevenLabs is an affordable and reliable choice for realistic AI voices in various applications like video games, narration videos, audiobooks, etc
 ### 3D
 
 ## Papers
 - [StabilityAI::Stable-Cascade](https://huggingface.co/stabilityai/stable-cascade)
-   
+  
    >Stable Cascade is a diffusion model trained to generate images given a text prompt working in a much smaller latent space. This means faster and cheaper inference
 
 ## International AI conferences 
