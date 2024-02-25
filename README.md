@@ -13,6 +13,9 @@
    - [3D](#3d)
 - [International AI conferences](#International-AI-conferences)
 - [Software engineering](#software-engineering)
+- [Learning resources](#learning-resources)
+
+---
 
 ## Miscellaneous
 - [Petals](https://github.com/bigscience-workshop/petals?tab=readme-ov-file)
@@ -156,6 +159,17 @@
 
 ## Software Engineering
 
+- [Data science dashboard with Python and Streamlit](https://morioh.com/a/b0a0843ff9b1/build-an-interactive-analytics-dashboard-website-using-python)
+
+  > Tutorial on how to build an interactive analytics  dashboard website using Python, streamlit, CSS, HTML, and Excel as the  data source
+  
 - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 
   > A curated list of awesome AI resources, articles, videos, and tools to learn and practice artificial intelligence, among other interesting tech topics
+
+## Learning Resources
+
+- Google AI courses 2024
+  - [Introduction to generative AI](https://www.cloudskillsboost.google/course_templates/536)
+  - [Introduction to large language models](https://www.cloudskillsboost.google/course_templates/539)
+
