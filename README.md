@@ -59,7 +59,7 @@
 - [LLaMA 2](https://llama.meta.com) by Meta
 - [Claude 2](https://www.anthropic.com/product) by Antrophic
 - [Mistral](https://mistral.ai) by MistralAI
-- 
+- [Gemma](https://blog.google/technology/developers/gemma-open-models/) by Google
 
 ### Text
 
@@ -141,8 +141,12 @@
 
 ## Papers
 - [StabilityAI::Stable-Cascade](https://huggingface.co/stabilityai/stable-cascade)
-  
+
    >Stable Cascade is a diffusion model trained to generate images given a text prompt working in a much smaller latent space. This means faster and cheaper inference
+
+- [RS Paper (papers on recommender system)](https://github.com/hongleizhang/RSPapers)
+
+   > A Curated List of Must-read Papers on Recommender System.
 
 ## International AI conferences 
 
@@ -165,7 +169,7 @@
   
 - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 
-  > A curated list of awesome AI resources, articles, videos, and tools to learn and practice artificial intelligence, among other interesting tech topics
+  > A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles
 
 ## Learning Resources
 
