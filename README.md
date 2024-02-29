@@ -13,6 +13,7 @@
    - [3D](#3d)
 - [International AI conferences](#International-AI-conferences)
 - [Software engineering](#software-engineering)
+- [AI related persons](#ai-related-persons)
 
 ## Miscellaneous
 - [Petals](https://github.com/bigscience-workshop/petals?tab=readme-ov-file)
@@ -38,6 +39,10 @@
 - [Liner.ai](https://liner.ai)
 
   > Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required
+
+- [DialogFlow (Google)](https://dialogflow.cloud.google.com/#/getStarted)
+
+  > *Comprehensive platform for developing chatbots, voice bots, and virtual agents using* natural language understanding and Google AI
 
 ## AI Frameworks
 
@@ -159,3 +164,9 @@
 - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 
   > A curated list of awesome AI resources, articles, videos, and tools to learn and practice artificial intelligence, among other interesting tech topics
+
+## AI Related Persons
+
+- Nick Bostrom
+
+  > Book Superintelligence: Paths, Dangers, Strategies 
