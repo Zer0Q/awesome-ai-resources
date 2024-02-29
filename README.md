@@ -3,9 +3,10 @@
 
 ## Contents
 
-- [Non-cathegorized](#miscellaneous)
+- [Non-categorized](#miscellaneous)
 - [Lo-code / No-code AI tools](#lo-code-no-code-ai-tools)
 - [Generative AI Tools](#generative-ai-tools)
+  
    - [Text](#text)
    - [Image](#image)
    - [Video](#text-to-video)
@@ -14,6 +15,9 @@
 - [International AI conferences](#International-AI-conferences)
 - [Software engineering](#software-engineering)
 - [AI related persons](#ai-related-persons)
+- [Learning resources](#learning-resources)
+
+---
 
 ## Miscellaneous
 - [Petals](https://github.com/bigscience-workshop/petals?tab=readme-ov-file)
@@ -61,7 +65,7 @@
 - [LLaMA 2](https://llama.meta.com) by Meta
 - [Claude 2](https://www.anthropic.com/product) by Antrophic
 - [Mistral](https://mistral.ai) by MistralAI
-- 
+- [Gemma](https://blog.google/technology/developers/gemma-open-models/) by Google
 
 ### Text
 
@@ -143,8 +147,12 @@
 
 ## Papers
 - [StabilityAI::Stable-Cascade](https://huggingface.co/stabilityai/stable-cascade)
-  
+
    >Stable Cascade is a diffusion model trained to generate images given a text prompt working in a much smaller latent space. This means faster and cheaper inference
+
+- [RS Paper (papers on recommender system)](https://github.com/hongleizhang/RSPapers)
+
+   > A Curated List of Must-read Papers on Recommender System.
 
 ## International AI conferences 
 
@@ -161,12 +169,21 @@
 
 ## Software Engineering
 
+- [Data science dashboard with Python and Streamlit](https://morioh.com/a/b0a0843ff9b1/build-an-interactive-analytics-dashboard-website-using-python)
+
+  > Tutorial on how to build an interactive analytics  dashboard website using Python, streamlit, CSS, HTML, and Excel as the  data source
+  
 - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 
-  > A curated list of awesome AI resources, articles, videos, and tools to learn and practice artificial intelligence, among other interesting tech topics
+  > A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.
 
 ## AI Related Persons
 
 - Nick Bostrom
-
   > Book Superintelligence: Paths, Dangers, Strategies 
+
+## Learning Resources
+
+- Google AI courses 2024
+  - [Introduction to generative AI](https://www.cloudskillsboost.google/course_templates/536)
+  - [Introduction to large language models](https://www.cloudskillsboost.google/course_templates/539)
