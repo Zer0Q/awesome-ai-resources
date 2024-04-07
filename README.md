@@ -6,8 +6,7 @@
 - [Non-categorized](#miscellaneous)
 - [Lo-code / No-code AI tools](#lo-code-no-code-ai-tools)
 - [Generative AI Tools](#generative-ai-tools)
-  
-   - [Text](#text)
+  - [Text](#text)
    - [Image](#image)
    - [Video](#text-to-video)
    - [Audio](#audio)
@@ -25,6 +24,20 @@
    >Run large language models at home, BitTorrent-style
 
 - [Blog de JaviLop:Start-ups](https://javilop.com/startupea-inteligentemente/invirtiendo-tres-anos-en-startups/)
+
+- [AI Transformation Playbook](https://landing.ai/case-studies/ai-transformation-playbook/) (Guide from Andrew Ng)
+
+   > This **AI Transformation Playbook** draws on insights gleaned from leading the Google Brain team and the Baidu AI Group, which played leading roles in transforming both Google and Baidu into great AI companies
+
+- [LM Studio](https://lmstudio.ai)
+
+   > Discover, download, and run local LLMs
+
+- > 
+
+- [SigCar](https://beta.sigcar.es/sigc.php) from Alauda Ingeniería
+
+   > Spain centralized streets information
 
 ## Lo-code no-code AI Tools
 
@@ -47,6 +60,10 @@
 - [DialogFlow (Google)](https://dialogflow.cloud.google.com/#/getStarted)
 
   > *Comprehensive platform for developing chatbots, voice bots, and virtual agents using* natural language understanding and Google AI
+
+- [AnythinLLM](https://useanything.com)
+
+  > Any LLM, any document, full control, full privacy
 
 ## AI Frameworks
 
@@ -182,8 +199,22 @@
 - Nick Bostrom
   > Book Superintelligence: Paths, Dangers, Strategies 
 
+- [Karl J. Friston](https://www.fil.ion.ucl.ac.uk/~karl/#_Free-energy_principle)
+
+  > Free-energy principle and active inference
+
+- Yann LeCun
+
+  > Deep learning 
+
+- Richard S. Sutton
+
+  > Reinforce learning father
+
 ## Learning Resources
 
 - Google AI courses 2024
   - [Introduction to generative AI](https://www.cloudskillsboost.google/course_templates/536)
   - [Introduction to large language models](https://www.cloudskillsboost.google/course_templates/539)
+- Deeplearning AI
+  - [Knowledge graph for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
